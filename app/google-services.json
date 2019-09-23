@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063414788389",
+    "firebase_url": "https://aplikasinotes.firebaseio.com",
+    "project_id": "aplikasinotes",
+    "storage_bucket": "aplikasinotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063414788389:android:b86215f650b4bfe7aeeacc",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063414788389-9409gaaelmu01p1mnjg9fp1jjtf56rfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasi_notes",
+            "certificate_hash": "7fc58cd8cd45ebad34ecb89218fa5e5e4f811c86"
+          }
+        },
+        {
+          "client_id": "1063414788389-1aah33jmq8erq6o7lq5i8loes5sunkn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmvYKAS_SFjgdE9PHYMXst3_G75pUwJUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063414788389-1aah33jmq8erq6o7lq5i8loes5sunkn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
